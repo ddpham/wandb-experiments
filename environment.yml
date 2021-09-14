@@ -1,0 +1,17 @@
+name: dl
+channels:
+- conda-forge
+- pytorch
+- fastchan
+dependencies:
+- fastai
+- pytorch
+- numpy
+- pandas 
+- matplotlib
+- jupyter
+- jupyterlab
+- wandb
+- pip
+- pip:
+  - nbdev  
