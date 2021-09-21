@@ -12,7 +12,7 @@ experiments with Weights and Biases
 > Sau đó tạo tên cho project:
 ![image.jpg](images/create_new_project_name.jpg)
 
-Ở đây tôi đã tạo sẵn 1 project cho [repository này](https://docs.wandb.ai/guides/integrations)
+Ở đây tôi đã tạo sẵn 1 project cho [repository này](https://wandb.ai/ddpham/swift-swallow-classification)
 
 
 # Cách sử dụng
