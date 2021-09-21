@@ -58,11 +58,11 @@ Câu lệnh này sẽ mất 1 chút thời gian để hoàn thành, sau đó, b�
 
 Sau cùng, bạn có thể thấy kết quả ntn trên web
 
-![image](images/wandb_fastai.jpg)
+![image.jpg](images/wandb_fastai.jpg)
 
 Chúng ta có thể dễ dàng so sánh kết quả các metrics giữa các model để đánh giá mức độ hiệu quả của chúng:
 
-![image](images/W&B_fastai_f1.png)
+![image.png](images/W&B_fastai_f1.png)
 
 Bạn có thể xem chi tiết với [wandb-experiments-with-fastai.ipynb](https://github.com/ddpham/wandb-experiments/blob/main/nbs/wandb-experiments-with-fastai.ipynb)
 
